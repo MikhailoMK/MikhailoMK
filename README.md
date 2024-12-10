@@ -15,6 +15,7 @@
 ### 📋 Languages
 
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-%232E2A87?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -39,3 +40,7 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-%23E04D01?style=for-the-badge&logo=ansible&logoColor=white&color=black)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-%232676D1?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-%23FF7F00?style=for-the-badge&logo=zabbix&logoColor=white&color=%23D40000)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-%234D78BF?style=for-the-badge&logo=virtualbox&logoColor=white)
+![SQLDeveloper](https://img.shields.io/badge/-SQL%20Developer-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-%23007B6C?style=for-the-badge&logo=dbeaver&logoColor=white)
+![CodeBlocks](https://img.shields.io/badge/-Code%3A%3ABlocks-%231E4F71?style=for-the-badge&logo=codeblocks&logoColor=white)
